@@ -1,0 +1,28 @@
+{
+  "name": "jwt-key",
+  "version": "1.0.1",
+  "description": "Zero dependency Node.js module to generate public and private keys for use in Json Web Tokens (JWT) authorisation.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Santhoshmani",
+
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://www.github.com/santhoshmani11/jwt-key/issues"
+  },
+  "keywords": [
+    "JWT",
+    "jsonwebtoken",
+    "node",
+    "crypto",
+    "key"
+  ],
+  "license": "MIT"
+}
